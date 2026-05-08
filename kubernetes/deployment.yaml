@@ -22,7 +22,7 @@ spec:
       containers:
       - name: devops-app
 
-        image: YOUR_ECR_URI:latest
+        image: image: 578339677090.dkr.ecr.us-east-1.amazonaws.com/devops-app:latest
 
         imagePullPolicy: Always
 
